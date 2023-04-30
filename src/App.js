@@ -1,5 +1,7 @@
 import React from "react";
+// npm i react-router-dom
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// pages
 import Home from "./components/Home";
 import People from "./components/People";
 import PersonDetails from "./components/PersonDetails";

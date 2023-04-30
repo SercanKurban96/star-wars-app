@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+// npm i axios
 import axios from "axios";
 import { useParams, Link } from "react-router-dom";
 import Home from "./Home";
